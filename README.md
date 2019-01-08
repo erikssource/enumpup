@@ -2,7 +2,7 @@
 An easy way to create simple string enums in Javascript.
 
 ## Install
-```javascript
+```
 npm install --save enumpup
 ```
 
