@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/erikssource/enumpup.svg?branch=master)](https://travis-ci.org/erikssource/enumpup) [![Coverage Status](https://coveralls.io/repos/github/erikssource/enumpup/badge.svg?branch=master)](https://coveralls.io/github/erikssource/enumpup?branch=master)
+[![Build Status](https://travis-ci.org/erikssource/enumpup.svg?branch=master)](https://travis-ci.org/erikssource/enumpup) [![Coverage Status](https://coveralls.io/repos/github/erikssource/enumpup/badge.svg?branch=master)](https://coveralls.io/github/erikssource/enumpup?branch=master) [![](https://img.shields.io/bundlephobia/min/enumpup.svg)](https://www.npmjs.com/package/enumpup)
 
 # enumpup
 An easy way to create simple string enums in Javascript.
