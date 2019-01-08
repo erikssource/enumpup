@@ -1,0 +1,22 @@
+{
+  "name": "enumpup",
+  "version": "1.0.0",
+  "description": "Create enums with ease",
+  "main": "./index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "enum"
+  ],
+  "author": "Erik Larson",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "coveralls": "^3.0.2",
+    "jest": "^23.6.0"
+  }
+}
