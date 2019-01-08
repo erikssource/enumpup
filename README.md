@@ -12,7 +12,7 @@ Javascript doesn't really have an enum type and enums can come in handy. When yo
   export const APPLE = "APPLE",
   export const ORANGE = "ORANGE",
   export const MANGO = "MANGO",
-  export const PEAR = "PEAR
+  export const PEAR = "PEAR"
 ```
 That's okay. But when you are used to something like the enum type in Java, it seems pretty crude.
 
