@@ -1,12 +1,12 @@
 {
   "name": "enumpup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create enums with ease",
   "main": "./index.js",
   "repository": {
-		"type": "git",
-		"url": "https://github.com/erikssource/enumpup"
-	},
+    "type": "git",
+    "url": "https://github.com/erikssource/enumpup"
+  },
   "scripts": {
     "test": "jest"
   },
@@ -18,9 +18,10 @@
   "author": "Erik Larson",
   "license": "MIT",
   "devDependencies": {
-    "babel-jest": "^23.6.0",
-    "babel-preset-env": "^1.7.0",
-    "coveralls": "^3.0.2",
-    "jest": "^23.6.0"
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "babel-jest": "^24.9.0",
+    "coveralls": "^3.0.6",
+    "jest": "^24.9.0"
   }
 }
